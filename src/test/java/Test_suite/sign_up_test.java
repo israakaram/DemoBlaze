@@ -1,3 +1,4 @@
+//Author: Israa Karam Sayed
 package Test_suite;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
